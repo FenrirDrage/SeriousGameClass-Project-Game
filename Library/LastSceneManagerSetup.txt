@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Labirinto/Jogo/OverLight Fase 1.unity
+  isLoaded: 1
+  isActive: 1

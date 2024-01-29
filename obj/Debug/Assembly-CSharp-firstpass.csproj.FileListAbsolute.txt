@@ -1,0 +1,162 @@
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Claudia\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Claudia\Desktop\Labirinto\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Claudia\Desktop\Labirinto\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Claudia\Desktop\Labirinto\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Claudia\Desktop\Jogo\Labirinto\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Claudia\Desktop\Jogo\Labirinto\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Claudia\Desktop\Jogo\Labirinto\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Claudia\Desktop\Jogo\Labirinto\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Sérgio\Desktop\Labirinto 04.06.17\Labirinto\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Claudia\Desktop\Overlight 12.06\Labirinto\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Racrebelo\Desktop\Labirinto\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Racrebelo\Desktop\Labirinto\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Racrebelo\Desktop\Labirinto\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Racrebelo\Desktop\Labirinto\obj\Debug\Assembly-CSharp-firstpass.pdb
